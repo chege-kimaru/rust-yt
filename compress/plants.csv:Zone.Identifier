@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://figshare.com/
+HostUrl=https://s3-eu-west-1.amazonaws.com/pfigshare-u-files/7879819/Species_clustering_classification.csv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIYCQYOYV5JSSROOA/20241003/eu-west-1/s3/aws4_request&X-Amz-Date=20241003T120205Z&X-Amz-Expires=10&X-Amz-SignedHeaders=host&x-amz-acl=private&X-Amz-Signature=5c6b4d31b75f89f1862ab8fef8c5daec84743e93f5d19f05133bc552db58726a
