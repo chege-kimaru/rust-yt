@@ -30,7 +30,7 @@ fn main() {
     let push_command = Command::new("git")
         .arg("push")
         .arg("origin")
-        .arg("master")
+        .arg("main")
         .output()
         .expect("Failed to execute git push command");
 
